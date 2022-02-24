@@ -14,7 +14,7 @@ const Header = () => {
 
             <a href="index.html" className="logo">
               <img
-                src="/assets/images/icons/keke_logo.png"
+                src="https://s3.us-east-2.amazonaws.com/uploads.spreadsimple/9e0fba4c-a149-4b64-92fc-eb443f114486_Keke%20Shop.png"
                 alt="Molla Logo"
                 width="82"
                 height="20"
