@@ -12,3 +12,6 @@ backup
 home
 core
 .vscode
+requirements.txt
+manage
+db.sqlite3
